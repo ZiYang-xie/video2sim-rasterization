@@ -34,6 +34,6 @@ rendered_image, rendered_depth, rendered_norm, rendered_alpha, radii, extra, gs_
   journal={Preprint},
   year={2024}
 }
-}</code></pre>
+</code></pre>
   </div>
 </section>
